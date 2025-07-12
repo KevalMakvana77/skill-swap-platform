@@ -7,7 +7,7 @@
 
 **🔹 Team Members:**
 
-- **Makvana Keval Pareshbhai** – Team Leader & GitHub Manager  
+- **Makvana Keval Pareshbhai** – Team Leader & Full Stack Developer & GitHub Manager 
 - **Makavana Yash Anilbhai** – Team Member (Frontend Developer)  
 - **Kanzariya Ronak Sureshbhai** – Team Member (Backend Developer)
 
